@@ -6,6 +6,8 @@ SquisUI is a full-featured stater-kit for for your next WebApp application. It's
 
 ![GitHub tag (latest SemVer pre-release)](https://img.shields.io/github/v/tag/squid-ui/laravel-jetstream-innertiajs-starter?include_prereleases) ![GitHub all releases](https://img.shields.io/github/downloads/squid-ui/laravel-jetstream-innertiajs-starter/total) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/squid-ui/laravel-jetstream-innertiajs-starter) ![GitHub](https://img.shields.io/github/license/squid-ui/laravel-jetstream-innertiajs-starter)
 
+![Dashboard](public/images/squidce/squid-ce-wellcome.png "SquidUI Welcome page after succeffsulll installation")
+
 ## SquidUI Community Edition features:
 
 * Authentication (with 2 Factor Auth support)
@@ -24,6 +26,12 @@ SquisUI is a full-featured stater-kit for for your next WebApp application. It's
 * [Pinia Store](https://pinia.vuejs.org/)
 * [TailwindCss](https://tailwindcss.com/)
 * [DaisyUI](https://daisyui.com/)
+
+## Sreens
+
+<img src="public/images/squidce/squid-ce-login.png" width="50%" height="50%">
+
+<img src="public/images/squidce/squid-ce-dashboard.png" width="50%" height="50%">
 
 ## Why use squidUI?
 
@@ -62,6 +70,8 @@ It is easy to use if you're familiar with Laravel and Vue.js. This version is MI
 You are free to use it however you like.
 
 ### SquidUI Pro LICENSE  [Visit Website](https://squidui.com/)
+
+<img src="https://squidui.com/images/squidUI.png" width="80%">
 
 Save thousands of hours (2960 and counting 🕓) implementing the best design patters, libraries and strategies…
 
