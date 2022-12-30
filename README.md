@@ -4,7 +4,7 @@ Production Ready, Extensive, Beautifully Crafted, WebApp Starter Kit.
 
 SquisUI is a full-featured stater-kit for for your next SaaS application. It's built on top of Laravel, Livewire, InertiaJS, Tailwind and DaisyUI.
 
-[![CI/CD workflow](https://github.com/squid-ui/laravel-jetstream-innertiajs-starter/actions/workflows/ci.yml/badge.svg)](https://github.com/squid-ui/laravel-jetstream-innertiajs-starter/actions/workflows/ci.yml) ![GitHub tag (latest SemVer pre-release)](https://img.shields.io/github/v/tag/squid-ui/laravel-jetstream-innertiajs-starter?include_prereleases) ![GitHub all releases](https://img.shields.io/github/downloads/squid-ui/laravel-jetstream-innertiajs-starter/total) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/squid-ui/laravel-jetstream-innertiajs-starter) ![GitHub](https://img.shields.io/github/license/squid-ui/laravel-jetstream-innertiajs-starter)
+![GitHub tag (latest SemVer pre-release)](https://img.shields.io/github/v/tag/squid-ui/laravel-jetstream-innertiajs-starter?include_prereleases) ![GitHub all releases](https://img.shields.io/github/downloads/squid-ui/laravel-jetstream-innertiajs-starter/total) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/squid-ui/laravel-jetstream-innertiajs-starter) ![GitHub](https://img.shields.io/github/license/squid-ui/laravel-jetstream-innertiajs-starter)
 
 ## SquidUI Community Edition features:
 
