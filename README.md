@@ -2,7 +2,7 @@
 
 Production Ready, Extensive, Beautifully Crafted, WebApp Starter Kit.
 
-SquisUI is a full-featured stater-kit for for your next SaaS application. It's built on top of Laravel, Livewire, InertiaJS, Tailwind and DaisyUI.
+SquisUI is a full-featured stater-kit for for your next WebApp application. It's built on top of Laravel, Livewire, InertiaJS, Tailwind and DaisyUI.
 
 ![GitHub tag (latest SemVer pre-release)](https://img.shields.io/github/v/tag/squid-ui/laravel-jetstream-innertiajs-starter?include_prereleases) ![GitHub all releases](https://img.shields.io/github/downloads/squid-ui/laravel-jetstream-innertiajs-starter/total) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/squid-ui/laravel-jetstream-innertiajs-starter) ![GitHub](https://img.shields.io/github/license/squid-ui/laravel-jetstream-innertiajs-starter)
 
