@@ -23,3 +23,7 @@
 - Added LICENSE.md file.
 - Modified README.md
 - Added SquidUI Community Edition Print Screens
+
+## v0.0.2
+
+- Missing Pinia instance added in app.js setup

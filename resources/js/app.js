@@ -12,6 +12,9 @@ import piniaPluginPersistedstate from "pinia-plugin-persistedstate";
 import { useMainStore } from "@stores/main.js";
 import { uiColors } from "@composables/useColors";
 
+const pinia = createPinia();
+pinia.use(piniaPluginPersistedstate);
+
 const appName =
   window.document.getElementsByTagName("title")[0]?.innerText || "Laravel";
 
@@ -24,6 +27,7 @@ createInertiaApp({
     ),
   setup({ el, app, props, plugin }) {
     return createApp({ render: () => h(app, props) })
+      .use(pinia)
       .use(plugin)
       .use(ZiggyVue)
       .mount(el);
@@ -33,8 +37,6 @@ createInertiaApp({
 InertiaProgress.init({ color: "#4B5563" });
 
 /* Pinia Store */
-const pinia = createPinia();
-pinia.use(piniaPluginPersistedstate);
 const mainStore = useMainStore(pinia);
 const activeTheme = localStorage.getItem("theme")
   ? localStorage.getItem("theme")
