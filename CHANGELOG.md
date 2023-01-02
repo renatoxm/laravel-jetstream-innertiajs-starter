@@ -27,3 +27,8 @@
 ## v0.0.2
 
 - Missing Pinia instance added in app.js setup
+
+## v0.0.3
+
+- @tailwindcss/forms removed (interfering with DaisyUI)
+- Refactores all tailwind forms to fit DaisyUI Specs instead of @tailwindcss/forms

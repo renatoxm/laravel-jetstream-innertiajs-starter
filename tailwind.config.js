@@ -33,7 +33,6 @@ module.exports = {
   },
   plugins: [
     require("@tailwindcss/forms"),
-    require("@tailwindcss/typography"),
     require("daisyui"),
     require("tailwind-scrollbar-daisyui"),
     plugin(function ({ matchUtilities, theme }) {
